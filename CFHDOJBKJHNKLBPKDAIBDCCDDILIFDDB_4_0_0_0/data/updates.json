@@ -1,0 +1,10 @@
+{
+  "title": {
+    "image": "skin/icons/updates/panda.gif"
+  },
+  "fixes": [],
+  "improvements": [
+    {"id": "i1"},
+    {"id": "i2"}
+  ]
+}
